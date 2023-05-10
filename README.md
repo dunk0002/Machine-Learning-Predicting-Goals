@@ -2,10 +2,12 @@
 A project for my Data Science for Economists that explored if machine learning could predict if a goal is scored based on a set of variables from the hockeyR package.
 
 **Project Description**
+
 This project takes play by play data scraped from the NHL website in the [hockeyR package](https://github.com/danmorse314/hockeyR) created by Dan Morse. The data is filtered down to only the important variables for the regression.
 
 
 **Data Collection and Cleaning**
+
 1. Install hockeyR package 
 2. Load in play by play data from one season 
 3. Filter down play by play data to include SHOTS, MISSED_SHOT, and GOAL
